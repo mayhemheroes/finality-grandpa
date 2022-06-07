@@ -4,9 +4,6 @@ project: finality-grandpa
 # Target name (should be unique within the project)
 target: graph
 
-# Base image to run the binary in.
-# image: ghcr.io/prateekvishnu/finality-grandpa:latest
-
 # List of commands used to test the target
 cmds:
 
